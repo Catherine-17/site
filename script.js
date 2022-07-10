@@ -166,6 +166,5 @@ function hiddenStart () {
 	document.getElementById("start_page").style.display = "none";
 	
 	start();
-
 }
 
